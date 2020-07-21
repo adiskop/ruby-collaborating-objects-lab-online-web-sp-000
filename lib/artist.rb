@@ -7,8 +7,8 @@ def initialize(name)
 
 end
 
-def self.all
-  @all<<self
+def self.all(name)
+@name= Artist.new
 end
 
 
