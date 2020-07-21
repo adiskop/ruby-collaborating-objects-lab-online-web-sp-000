@@ -7,7 +7,7 @@ def initialize(name)
 
 end
 
-def all
+def all(name)
   @all<<name
 end
 
