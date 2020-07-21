@@ -8,7 +8,7 @@ def initialize(name)
 end
 
 def self.all(song)
-@all<<song
+@all
 end
 
 
