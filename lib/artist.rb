@@ -8,7 +8,7 @@ def initialize(name)
 end
 
 def all
-  @all<<self
+  @all<<name
 end
 
 
