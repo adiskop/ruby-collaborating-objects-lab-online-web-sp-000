@@ -8,7 +8,7 @@ def initialize(name)
 end
 
 def self.all(name)
-@name= Artist.new
+name= Artist.new
 end
 
 
